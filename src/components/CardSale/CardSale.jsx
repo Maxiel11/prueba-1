@@ -1,9 +1,8 @@
 import React from 'react'
-import './CardSale.scss'
 
 const CardSale = () => {
     return(
-        <div className='prueba'>
+        <div>
             Card Sale
         </div>
     )

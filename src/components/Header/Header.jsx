@@ -1,11 +1,12 @@
 import React from 'react'
-import './Header.scss'
+import { Wrapperheader } from './Header.styled';
+
 
 const Header = () => {
     return(
-        <div className='prueba'>
+        <Wrapperheader>
             header
-        </div>
+        </Wrapperheader>
     )
 };
 
